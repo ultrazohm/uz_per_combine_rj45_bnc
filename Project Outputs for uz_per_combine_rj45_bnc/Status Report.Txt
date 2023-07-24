@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:49:30 On 24.07.2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PCB1.PcbDoc]
+   Generated File[Export STEP_uz_per_combine_rj45_bnc_[No Variations]_ProjectRevision.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:49:37 On 24.07.2023

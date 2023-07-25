@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\valen\Documents\repos\UZ\uz_per_combine_rj45_bnc\Project Outputs for uz_per_combine_rj45_bnc\ProjectRevision\Pick Place\Pick_and_Place_uz_per_combine_rj45_bnc_[No Variations]_ProjectRevision.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25.07.23
+Time:       14:22
+Revision:   663ca1d7da7196f917379f182461fd8473763c8c
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Ref-X(mm)","Center-X(mm)","Ref-Y(mm)","Center-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Rotation","Comment","Layer"
+"D1","LEDM2012X80N","147.9550","147.9550","42.9260","42.9260","147.9550","43.9760","270","150080GS75000","BottomLayer"
+"J2","PCB_-_MISC_-_DSUB15","157.8610","157.8610","43.1800","43.1800","159.1310","33.4850","270","SUB-DRBF-607A-002","TopLayer"
+"R5","RES_0805_2012","164.3520","164.3520","27.0510","27.0510","163.4770","27.0510","0","0R","BottomLayer"
+"R6","RES_0805_2012","148.0820","148.0820","47.4980","47.4980","148.0820","48.3730","270","30k","BottomLayer"
+"R7","RES_0805_2012","150.8620","150.8620","50.4190","50.4190","149.9870","50.4190","0","10k","BottomLayer"
+"R4","RES_0805_2012","160.4010","160.4010","30.2260","30.2260","159.5260","30.2260","0","0R","BottomLayer"
+"R3","RES_0805_2012","163.8300","163.8300","41.1480","41.1480","162.9550","41.1480","0","10k","BottomLayer"
+"R2","RES_0805_2012","166.7510","166.7510","42.4180","42.4180","166.7510","41.5430","90","20k","BottomLayer"
+"R1","RES_0805_2012","163.8440","163.8440","43.6880","43.6880","164.7190","43.6880","180","10k","BottomLayer"
+"J1","RJHSE-5380-02","171.9580","169.7990","28.9560","43.1800","169.4180","38.8620","90","RJHSE538002","TopLayer"
+"SW1","SW-SMD_DSIC01LSGET","152.4000","152.4000","42.4180","42.4180","152.4000","38.0430","0","DSIC01LSGET","BottomLayer"

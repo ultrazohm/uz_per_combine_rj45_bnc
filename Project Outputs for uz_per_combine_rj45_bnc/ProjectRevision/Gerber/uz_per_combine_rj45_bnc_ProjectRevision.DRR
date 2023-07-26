@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   25.07.2023  14:22:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : uz_per_combine_rj45_bnc_ProjectRevision.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T2      35mil (0.899mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T3      45mil (1.151mm)                                           Round             15        PTH        0.00inch (0.00mm)
+T4      63mil (1.6mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      128mil (3.251mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T6      128mil (3.251mm)                                          Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              42
+
+Total Processing Time (hh:mm:ss) : 00:00:00
